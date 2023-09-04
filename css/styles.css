@@ -311,6 +311,7 @@ body {
     flex-shrink: 0;
     background: var(--cloud, #F4F4FD);
     margin-left: -156px;
+    margin-bottom: -120px;
     /* margin-top: 72px; */
     /* margin-bottom: 104px; */
 }
